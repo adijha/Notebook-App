@@ -6,10 +6,8 @@ function render() {
 	ReactDOM.render(
 		<>
 			<h1 className="header">💖 Hello World!</h1>
-
 			<Editor />
 		</>,
-
 		document.body
 	)
 }
