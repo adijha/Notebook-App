@@ -5,7 +5,7 @@ import { Editor } from './components/Editor'
 function render() {
 	ReactDOM.render(
 		<>
-			<h1 className="header">💖 Hello World!</h1>
+			<h1 className="header"> Hey! Write all of your secrets here</h1>
 			<Editor />
 		</>,
 		document.body
